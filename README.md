@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Bringing Musixmatch to the Windows Store by using Desktop Bridge"
-author: "Marcello Marchetti"
-author-link: "https://twitter.com/Marcello_twit"
+title: "Study123 Using Azure Media Service, Azure app service and Xamarin for better learning experience"
+author: "Ching Chen"
+author-link: "https://www.facebook.com/chenchingz"
 # author-image: "{{ site.baseurl }}/images/profile-image.jpg"
-date: 2017-03-23
-categories: [Desktop Bridge]
+date: 2017-03-16
+categories: [Azure App Service, Xamarin]
 color: "blue"
-excerpt: Musixmatch, one of the most popular lyrics apps worldwide, leveraged Desktop Bridge to bring their Win32 application to the Windows Store. The app was developed with Electron; read on for an explanation of the conversion process.
+excerpt: Using Azure Media Service, Azure app service and Xamarin to expand the learning experience from school to home, from home to everywhere.
 language: English
-verticals: [Entertainment]
+verticals: [Education]
 ---
 
 # App
